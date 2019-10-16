@@ -9,3 +9,8 @@ patch:
   'npm:ms:20170412':
     - socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2019-07-31T10:04:10.053Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-16T09:44:33.402Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-16T09:44:33.402Z'
